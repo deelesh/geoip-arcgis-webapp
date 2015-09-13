@@ -3,3 +3,10 @@
     margin: 0;
     height: 100%;
 }
+
+#locateButton {
+    position: absolute;
+    top: 90px;
+    left: 20px;
+    z-index: 50;
+}
